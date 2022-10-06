@@ -1,0 +1,7 @@
+fastapi
+imutils
+numpy
+opencv-contrib-python
+pytesseract
+scipy
+uvicorn
